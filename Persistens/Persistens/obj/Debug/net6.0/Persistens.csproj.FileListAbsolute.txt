@@ -1,0 +1,15 @@
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\bin\Debug\net6.0\Persistens.exe
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\bin\Debug\net6.0\Persistens.deps.json
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\bin\Debug\net6.0\Persistens.runtimeconfig.json
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\bin\Debug\net6.0\Persistens.dll
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\bin\Debug\net6.0\Persistens.pdb
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.csproj.AssemblyReference.cache
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.AssemblyInfoInputs.cache
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.AssemblyInfo.cs
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.csproj.CoreCompileInputs.cache
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.dll
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\refint\Persistens.dll
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.pdb
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\Persistens.genruntimeconfig.cache
+C:\Users\45217\Desktop\Datamatiker\ex11\Persistens\Persistens\obj\Debug\net6.0\ref\Persistens.dll
